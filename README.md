@@ -1,6 +1,6 @@
 # NimbleCSS
 
-![NimbleCSS Logo](path_to_logo.png) <!-- Replace 'path_to_logo.png' with the actual path to your logo if you have one -->
+![NimbleCSS Logo]() <!-- Replace 'path_to_logo.png' with the actual path to your logo if you have one -->
 
 Welcome to **NimbleCSS** - the blazing fast CSS framework designed to provide the best Developer Experience (DX). With a focus on speed, customization, and theming, NimbleCSS is your go-to solution for building modern, responsive, and beautiful web interfaces.
 
