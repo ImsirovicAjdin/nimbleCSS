@@ -1,0 +1,32 @@
+# Jekyll build directory
+_site/
+
+# Jekyll cache directory
+.jekyll-cache/
+
+# Jekyll metadata file
+.jekyll-metadata
+
+# Node modules (if using tools like Browsersync or any other Node.js tools)
+node_modules/
+
+# If using Bundler for gem management
+Gemfile.lock
+vendor/
+
+# Environment configuration
+.env
+
+# macOS generated files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# IDE - VSCode
+.vscode/
+
+# Other common files to ignore
+*.log
+*.bak
+*.swp
